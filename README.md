@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gevorg Martirosyan @GevorgMartirosyan8878
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React js library
+- 👀 I’m interested in backend development
+- 🌱 I’m currently working in my coding skills
